@@ -2,7 +2,9 @@ import java.util.Scanner;
 
 public class Menu {
     public Menu() {
-
+        int[] array = new int[10];
+        int i = 0;
+        int result = 0;
     }
 
     public void menu() {
